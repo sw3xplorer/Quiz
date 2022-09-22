@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj": {}
+    "C:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj": {}
   },
   "projects": {
-    "c:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj": {
+    "C:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj",
+        "projectUniqueName": "C:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj",
         "projectName": "Quiz",
-        "projectPath": "c:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj",
+        "projectPath": "C:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\Quiz.csproj",
         "packagesPath": "C:\\Users\\robert.popa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\obj\\",
+        "outputPath": "C:\\Users\\robert.popa\\Documents\\Programering\\C_sharp\\Quiz\\Quiz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
